@@ -4,7 +4,7 @@ Purpose:
 	paralelizando algunas partes del proceso utilizando OpenMP para mejorar la eficiencia en sistemas con múltiples núcleos de procesamiento.
 
   Example:
-	19 March 2024 16:00:00 PM
+	21 March 2024 21:00:00 PM
 
   Author: Chatgpt
 */
