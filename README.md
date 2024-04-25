@@ -2,5 +2,5 @@
 
 Javier Andrés Peña Vargas - 2204123
 
-El codigo selecionado para el primer trabajo (25%) es: Postman sort
+En este repositorio se encontraran los parciales y tranajos correspondientes a la materia de Computacion Paralela 
 
