@@ -1,5 +1,6 @@
 Integrantes
-Javier Andrés Peña Vargas - 2204123
+Javier Andrés Peña Vargas - 2204123 
+Santigo Yarce Prince - 2204123
 
 
 Codigo Postmansort en MPI 
@@ -35,6 +36,12 @@ Medición del tiempo de ejecución: El programa utiliza la función MPI_Wtime() 
 Finalización de MPI y liberación de memoria: Finalmente, se finaliza MPI y se libera la memoria asignada para las listas locales y globales.
 
 ![image](https://github.com/SC3UIS/IntroPP2204123./assets/143100480/72189e59-ef9e-4f58-b313-5aeec7560ce9)
+
+Conclusion:
+
+Para la ejecucion de los codigos utilizamos diferentes banderas pero no representaron cambios notables. Esto quizá a que la complejidad algoritmica con la cantidad de procesadores usados es muy baja.
+En el algoritmo de postmansort se pudo notar que su mejor version es la de OpenMp mostrada en la anterior entrega, pero por otra parte el algoritmo de busqueda binaria en los 3 casos fué bastante similar.
+En esta entrega se evidenció que el trabajo realizado por los integrantes fué optimo. 
 
 *Ejecucion en guane MPI
 
